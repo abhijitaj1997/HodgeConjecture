@@ -18,7 +18,7 @@ module
 public import Mathlib.AlgebraicGeometry.Group.Abelian
 public import Mathlib.NumberTheory.NumberField.CMField
 import all Mathlib.AlgebraicGeometry.Group.Abelian
-public import HodgeConjecture.Mathlib.CategoryTheory.Monoidal.Cartesian.Endomorphism
+public import Other.Mathlib.CategoryTheory.Monoidal.Cartesian.Endomorphism
 
 /-!
 ## CM Abelian varieties

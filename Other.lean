@@ -187,6 +187,7 @@ public import Other.Geometry.Manifold.Orientation
 public import Other.LinearAlgebra.ComplexOrientation
 public import Other.LinearAlgebra.HodgeStructure
 public import Other.Mathlib.Algebra.Homology.StupidTruncation
+public import Other.Mathlib.CategoryTheory.Monoidal.Cartesian.Endomorphism
 public import Other.RingTheory.AlgebraicNonvanishing
 public import Other.RingTheory.IntegralPrimitiveElement
 public import Other.RingTheory.RegularLocalQuotientKernel
